@@ -1,5 +1,5 @@
 # Joel CI
 
-[Joel](./10814185.jpg)
+[logo]: ./10814185.jpg "Joel"
 
 Manual Continuous Deployment - because somethings are not worth automatin.
