@@ -1,5 +1,8 @@
-# Joel CI
+# [Joel CI](/) &middot; [![Required]](https://img.shields.io/badge/Required-Joel-green) [![Coverage]](https://img.shields.io/badge/coverage-testing%20is%20for%20pussies-blue)
 
-[logo]: /10814185.jpg "Joel"
+<p align="center">
+    <img src="/src/img/joel.jpg">
+</p >
 
-Manual Continuous Deployment - because somethings are not worth automatin.
+## Manual Continuous Integration
+> Because somethings done slower, with far greater chance of failing is way more fun. :fire:
